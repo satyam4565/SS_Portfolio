@@ -60,7 +60,7 @@ npm run dev
 
 If you'd like to connect or collaborate:
 
-- Email: `satyam40506@gmail.com`  
+- Email: `satyam@gmail.com`  
 - LinkedIn: [linkedin.com/in/satyamsingh](https://www.linkedin.com/in/satyamsingh)  
 - GitHub: [github.com/satyamsingh](https://github.com/satyamsingh)  
 

@@ -16,10 +16,10 @@ const works = [
       projectLink: 'https://github.com/satyam4565/Play_On'
     },
     {
-      imgSrc: '/images/Calculator.png',
+      imgSrc: '/images/calc.png',
       title: 'Calculator',
       tags: ['HTML/CSS', 'JavaScript'],
-      projectLink: ''
+      projectLink: 'https://calculator-gray-gamma-85.vercel.app/'
     },
 ];
 
