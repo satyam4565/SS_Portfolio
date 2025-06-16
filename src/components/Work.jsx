@@ -10,10 +10,16 @@ const works = [
       projectLink: 'https://github.com/satyam4565/HabitHub'
     },
     {
-      imgSrc: '/images/project-2.jpg',
-      title: 'Play_On',
-      tags: ['React.js', 'TMDB API','Node.js','MongoDB'],
-      projectLink: 'https://github.com/satyam4565/Play_On'
+      imgSrc: '/images/ems.png',
+      title: 'Employee Management System',
+      tags: ['React.js', 'TailwindCSS','JavaScript','HTML/CSS'],
+      projectLink: 'https://github.com/satyam4565/Employee-Management-System'
+    },
+    {
+      imgSrc: '/images/algoguru.png',
+      title: 'AlgoGuru - DSA Chatbot',
+      tags: ['React.js', 'TypeScript','Google Gemini API'],
+      projectLink: 'https://algoguru.vercel.app/'
     },
     {
       imgSrc: '/images/calc.png',
