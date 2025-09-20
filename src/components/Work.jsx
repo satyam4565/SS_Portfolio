@@ -4,16 +4,28 @@ import ProjectCard from './ProjectCard'
 
 const works = [
     {
+      imgSrc: '/images/ems.png',
+      title: 'Emplytic',
+      tags: ['React.js', 'TailwindCSS','JavaScript','HTML/CSS'],
+      projectLink: 'https://github.com/satyam4565/Employee-Management-System'
+    },
+    {
+      imgSrc: '/images/cinesuggest.png',
+      title: 'CineSuggest',
+      tags: ['Python', 'Streamlit', 'TMDB API'],
+      projectLink: 'https://cinesuggestai.streamlit.app/'
+    },
+    {
       imgSrc: '/images/chromextp.png',
       title: 'HabitHub',
       tags: ['Chrome Extension API', 'HTML/CSS', 'JavaScript'],
       projectLink: 'https://github.com/satyam4565/HabitHub'
     },
     {
-      imgSrc: '/images/ems.png',
-      title: 'Employee Management System',
-      tags: ['React.js', 'TailwindCSS','JavaScript','HTML/CSS'],
-      projectLink: 'https://github.com/satyam4565/Employee-Management-System'
+      imgSrc: '/images/heartg.png',
+      title: 'HeartGuardian.AI',
+      tags: ['Python', 'Streamlit'],
+      projectLink: 'https://heartguardianai.streamlit.app/'
     },
     {
       imgSrc: '/images/algoguru.png',
@@ -26,7 +38,7 @@ const works = [
       title: 'Calculator',
       tags: ['HTML/CSS', 'JavaScript'],
       projectLink: 'https://calculator-gray-gamma-85.vercel.app/'
-    },
+    }
 ];
 
 const Work = () => {

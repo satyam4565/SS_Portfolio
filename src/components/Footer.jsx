@@ -36,7 +36,7 @@ const sitemap = [
     },
     {
       label: 'LeetCode',
-      href: 'https://leetcode.com/u/satyam4565/'
+      href: 'https://leetcode.com/u/satyium/'
     },
     {
       label: 'Codeforces',

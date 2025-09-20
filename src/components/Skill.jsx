@@ -44,11 +44,6 @@ const skillItem = [
       desc: 'Node Framework'
     },
     {
-      imgSrc: '/images/mongodb.svg',
-      label: 'MongoDB',
-      desc: 'Database'
-    },
-    {
       imgSrc: '/images/mysql.svg',
       label: 'MySQL',
       desc: 'Relational Database'
@@ -78,7 +73,7 @@ const skillItem = [
       imgSrc: '/images/VS Code.svg',
       label: 'VS Code',
       desc: 'Editor'
-    }
+    },
 ];
 
 const Skill = () => {

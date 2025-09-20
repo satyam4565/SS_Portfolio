@@ -16,7 +16,7 @@ const About = () => {
                 <li>🏋🏻Hitting the Gym</li>
               </ul>
             </p>
-            <img src='./images/avatar2.png' alt='avatar' className='w-40 h-40 rounded-full border-4 border-zinc-600 shadow-lg md:w-48 md:h-48' />
+            <img src='./images/hero.png' alt='avatar' className='w-40 h-40 rounded-full border-4 border-zinc-600 shadow-lg md:w-48 md:h-48' />
           </div>
         </div>
       </div>
