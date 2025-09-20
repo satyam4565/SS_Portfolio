@@ -25,37 +25,6 @@ Welcome to the source code of my personal portfolio website, built to showcase m
 
 ---
 
-## 🛠️ Installation & Development
-
-To run the project locally:
-
-```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-npm install
-npm run dev
-```
-
-> Ensure Node.js and npm are installed on your system.
-
----
-
-## 🧩 Folder Structure
-
-```bash
-/
-├── public/            # Static assets
-├── src/               # Main source code
-│   ├── components/    # Reusable components
-│   ├── pages/         # Page structure (if using a framework like Next.js)
-│   └── styles/        # Tailwind/custom styles
-├── .gitignore
-├── README.md
-└── package.json
-```
-
----
-
 ## 📫 Contact
 
 If you'd like to connect or collaborate:
