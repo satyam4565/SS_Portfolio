@@ -55,16 +55,17 @@ const About = () => {
           {/* Right Column - Image & Stats */}
           <div className='space-y-8'>
             <div className='relative'>
-              <div className='absolute inset-0 bg-gradient-to-br from-sky-400/20 to-emerald-400/20 rounded-3xl blur-xl'></div>
-              <div className='relative bg-gradient-to-br from-zinc-800 to-zinc-900 p-12 rounded-3xl ring-1 ring-zinc-50/10'>
-                <img 
-                  src='./images/hero.png' 
-                  alt='Satyam Singh' 
-                  className='w-full max-w-sm mx-auto rounded-2xl shadow-2xl' 
-                />
+              <div className='absolute inset-0 bg-[#242426] rounded-6xl'></div>
+              <div className='bg-[#242426] p-12 rounded-xl'>
+                <div className='relative'>
+                  <img 
+                    src='./images/avatar2.png' 
+                    alt='Satyam Singh' 
+                    className='w-full max-w-sm mx-auto rounded-2xl shadow-2xl object-contain aspect-square' 
+                  />
+                </div>
               </div>
             </div>
-
             {/* Stats Cards */}
             <div className='grid grid-cols-2 gap-4'>
               <div className='bg-gradient-to-br from-sky-400/10 to-sky-400/5 p-4 rounded-xl ring-1 ring-sky-400/20 text-center'>
